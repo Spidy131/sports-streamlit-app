@@ -1,7 +1,7 @@
 # sports-streamlit-app
 100-Class Sports Image Classifier using Transfer Learning (MobileNetV2) with Fine-Tuning and Streamlit Web Deployment | Achieved 90% Test Accuracy
 🏆 Sports Image Classifier – 100 Classes
-
+app link:https://sports-app-app-npelhy2snvkbjwgk5rb6lf.streamlit.app/
 This project is a deep learning-based multi-class image classification system that identifies 100 different sports categories using Transfer Learning (MobileNetV2) and fine-tuning techniques.
 
 The model achieves ~90% test accuracy on 500 unseen test images.
